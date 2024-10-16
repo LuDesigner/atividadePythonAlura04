@@ -1,4 +1,4 @@
-<h1>Desafios do Python - listas, for e try except </h1>
+<h1>Desafios do Python -  métodos especiais e atributos </h1>
 
 ## Obs: Abaixo esta o que foi solicitado a atividade e muito mais, eu fiz da forma que meus conhecimentos me permitiam naquele momento, espero que gostem ^^
 
